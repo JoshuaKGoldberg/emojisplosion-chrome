@@ -1,0 +1,9 @@
+node_modules/
+*.d.ts
+./**/*.d.ts
+*.js*
+./**/*.js*
+!*.json
+!webpack.config.js
+npm-debug.log
+debug.log

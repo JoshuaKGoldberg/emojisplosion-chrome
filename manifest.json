@@ -1,0 +1,25 @@
+{
+    "content_scripts": [
+        {
+            "matches": ["<all_urls>"],
+            "js": [
+                "node_modules/emojisplosion/lib/global.js",
+                "src/content.js"
+            ]
+        }
+    ],
+    "description": "💥Blasts 😄emoji😊 like 🎆fireworks🎇 all up in your 💻Chrome 📄pages. 😚😍",
+    "icons": {
+        "16": "src/img/icon16.png",
+        "24": "src/img/icon24.png",
+        "32": "src/img/icon32.png",
+        "64": "src/img/icon64.png",
+       "128": "src/img/icon128.png"
+    },
+    "manifest_version": 2,
+    "name": "Emojisplosion",
+    "permissions": [
+        "activeTab"
+    ],
+    "version": "1.0"
+}
