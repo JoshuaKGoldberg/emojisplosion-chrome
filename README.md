@@ -2,11 +2,11 @@
 
 Chrome extension that 💥blasts 😄emoji😊 like 🎆fireworks🎇 all up in your 💻Chrome 📄pages. 😚😍
 
-Uses the np
+_Uses the [emojisplosion](http://github.com/joshuakgoldberg/emojisplosion) npm package!_
 
 ## Installation
 
-
+Install via the Chrome extensions website: [[Link]](https://chrome.google.com/webstore/detail/emojisplosion/igkgkgpjeehhfkejikejhbddbaaafmcl/related)
 
 ## Contributing
 
