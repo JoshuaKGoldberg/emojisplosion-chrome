@@ -6,6 +6,6 @@
   "author": "Josh Goldberg <joshuakgoldberg@outlook.com>",
   "license": "MIT",
   "dependencies": {
-    "emojisplosion": "^1.0.0"
+    "emojisplosion": "^2.0.0"
   }
 }
